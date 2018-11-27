@@ -1,0 +1,7 @@
+[package]
+name = "sin-gen"
+version = "0.1.0"
+authors = ["fox"]
+edition = "2018"
+
+[dependencies]
