@@ -23,5 +23,5 @@ fn main() {
     let mut out = File::create(oname).unwrap();
     out.write_all(&bytes).unwrap();
 
-    println!("Hello, world!");
+    println!("Done.");
 }
